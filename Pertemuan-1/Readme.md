@@ -3,10 +3,10 @@
 ## Pertemuan 1
 
 1. Hit Counter
-   ![counter](/Screenshot/Counter.png)
+   ![counter](./Screenshot/Counter.png)
 
 2. Guestbook
-   ![guestbook](/Screenshot/Guestbook.png)
+   ![guestbook](./Screenshot/Guestbook.png)
 
 3. Upload File
-   ![uploadfile](/Screenshot/UploadFile.png)
+   ![uploadfile](./Screenshot/UploadFile.png)
