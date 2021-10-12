@@ -7,3 +7,9 @@
 - Guestbook
 - Upload File
 ```
+
+## Pertemuan 2
+
+```
+- Database Akademik
+```
