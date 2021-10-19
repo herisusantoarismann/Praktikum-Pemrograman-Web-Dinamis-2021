@@ -13,3 +13,9 @@
 ```
 - Database Akademik
 ```
+
+## Pertemuan 3
+
+```
+- CRUD
+```
