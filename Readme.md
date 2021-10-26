@@ -19,3 +19,9 @@
 ```
 - CRUD
 ```
+
+## Pertemuan 3
+
+```
+- Validasi
+```
