@@ -9,7 +9,7 @@ $r= mysqli_fetch_array($login);
 if ($ketemu > 0) {
     session_start();
     $_SESSION['iduser'] = $r['id_user'];
-    $_SESSION['passuser'] = $r['password'];
+    $_SESSION['passuser'] = $r['pas sword'];
     echo"USER BERHASIL LOGIN<br>";
     echo "id user =",$_SESSION['iduser'],"<br>";
     echo "password=",$_SESSION['passuser'],"<br>";
