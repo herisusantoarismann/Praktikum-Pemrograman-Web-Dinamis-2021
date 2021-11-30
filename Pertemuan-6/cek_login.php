@@ -11,9 +11,13 @@ if ($_POST["captcha_code"] == $_SESSION["captcha_code"]) {
     if ($ketemu > 0) {
         $_SESSION['iduser'] = $r['id_user'];
         $_SESSION['passuser'] = $r['password'];
+        $_SESSION['nama'] = $r['nama_lengkap'];
+        $_SESSION['email'] = $r['email'];
         echo"USER BERHASIL LOGIN<br>";
         echo "id user =",$_SESSION['iduser'],"<br>";
         echo "password=",$_SESSION['passuser'],"<br>";
+        echo "nama lengkap=",$_SESSION['nama'],"<br>";
+        echo "email=",$_SESSION['email'],"<br>";
         echo "<a href=logout.php><b>LOGOUT</b></a></center>";
     } else {
         echo "<center>Login gagal! username & password tidak benar<br>";
