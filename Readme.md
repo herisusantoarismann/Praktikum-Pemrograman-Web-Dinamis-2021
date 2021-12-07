@@ -41,5 +41,11 @@
 ## Pertemuan 7
 
 ```
-- Autentikasi
+- Searching
+```
+
+## Pertemuan 7
+
+```
+- Reporting
 ```
